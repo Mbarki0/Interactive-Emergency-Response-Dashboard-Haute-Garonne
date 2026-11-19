@@ -1,0 +1,11 @@
+id,nom,type,mois,lat,lon,pompiers_sous_q,vehicules_sous_q,temps,distance
+1,Feu industriel,Incendie,Mars,43.6045,1.4442,3,2,47,9.2
+2,Accident autoroute,Accident,Mars,43.6000,1.4500,2,1,35,12.5
+3,Inondation Garonne,Inondation,Février,43.6100,1.4300,4,3,60,15.3
+4,Feu forêt,Incendie,Mars,43.6200,1.4600,1,1,25,6.8
+5,Secours personne âgée,Secours,Avril,43.6150,1.4700,0,0,20,4.1
+6,Fuite de gaz centre-ville,Fuite de gaz,Mars,43.6050,1.4430,2,2,50,10.7
+7,Accident routier mineur,Accident,Avril,43.6080,1.4480,1,1,28,7.4
+8,Secours rivière,Secours,Mars,43.6120,1.4400,1,1,40,8.6
+9,Inondation sous-sol,Inondation,Mars,43.6020,1.4500,3,2,55,11.9
+10,Explosion atelier,Incendie,Janvier,43.6205,1.4705,4,3,65,14.0
